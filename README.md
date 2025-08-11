@@ -1,2 +1,5 @@
 # squash-ghosting-support
-Support repository for the Squash Ghosting application
+
+For any issues requiring support please email squashghostingmobile@gmail.com.
+
+Thanks!
